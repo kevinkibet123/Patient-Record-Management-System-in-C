@@ -51,6 +51,6 @@ This script demonstrates manual memory control in C — a crucial concept in low
 
 ## 👨‍💻 Author
 Kevin Kibet
-Computer Science & Mathematics Student | Passionate about Systems Programming, Networking & Cybersecurity
+- Computer Science & Mathematics Student | Passionate about Systems Programming, Networking & Cybersecurity
 
 ### Feel free to contribute, raise issues, or suggest improvements! 
